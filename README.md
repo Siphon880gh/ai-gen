@@ -5,8 +5,9 @@ By Weng Fei Fung (Weng). This project highlights how I engineered and optimized 
 ## Live Demos
 
 You can check out the live demos at:
-- [Netlify Demo](https://effortless-creponne-47734f.netlify.app/)
 - [Heroku Demo](https://wf-electric-becd0dc31639.herokuapp.com/)
+- [Netlify Demo](https://effortless-creponne-47734f.netlify.app/)
+- [Vercel Demo](https://ai-generated-website.vercel.app/)
 
 ## Development Process
 
