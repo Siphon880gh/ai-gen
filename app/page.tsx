@@ -28,7 +28,7 @@ export default function Home() {
         </div>
         <div className="container relative z-10 mx-auto px-4 text-center text-white md:px-6">
           <h1 className="mb-4 text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-            Trusted Electrical Services in Palm Beach County
+            Trusted Electrical Services in Los Angeles County
           </h1>
           <p className="mx-auto mb-8 max-w-2xl text-lg text-gray-200 md:text-xl">
             Family-owned. Over 30 years of experience. Professional electrical services for residential and commercial
@@ -50,7 +50,7 @@ export default function Home() {
             </div>
             <div className="flex items-center">
               <MapPin className="mr-2 h-5 w-5 text-[#FFD700]" />
-              <span>Serving all of Palm Beach County</span>
+              <span>Serving all of Los Angeles County</span>
             </div>
             <div className="flex items-center">
               <Phone className="mr-2 h-5 w-5 text-[#FFD700]" />
@@ -65,7 +65,7 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="mb-4 text-3xl font-bold tracking-tight text-[#333333] md:text-4xl">
-              Palm Beach County&apos;s Most Trusted Electricians Since 1993
+              Los Angeles County&apos;s Most Trusted Electricians Since 1993
             </h2>
             <p className="mb-8 text-lg text-gray-600">
               At W.F. Weng Electric, we&apos;ve built our reputation on reliability, quality workmanship, and exceptional
@@ -231,7 +231,7 @@ export default function Home() {
             <TestimonialCard
               quote="W.F. Weng Electric installed a new panel in our home and did an amazing job. Professional, on time, and cleaned up perfectly after the job."
               author="Michael Johnson"
-              location="West Palm Beach"
+              location="Los Angeles"
               rating={5}
             />
             <TestimonialCard
@@ -379,7 +379,7 @@ export default function Home() {
                 <p className="text-gray-600">
                   123 Main Street
                   <br />
-                  West Palm Beach, FL 33401
+                  Los Angeles, CA 33401
                 </p>
               </div>
               <div>
@@ -430,8 +430,7 @@ export default function Home() {
               <div className="rounded-lg bg-[#007BFF]/10 p-4">
                 <h3 className="mb-2 text-xl font-bold text-[#007BFF]">Service Area</h3>
                 <p className="text-gray-600">
-                  We proudly serve all of Palm Beach County, including West Palm Beach, Boca Raton, Jupiter, Wellington,
-                  Boynton Beach, Delray Beach, and surrounding areas.
+                  We proudly serve all of Los Angeles County.
                 </p>
               </div>
             </div>
@@ -462,7 +461,7 @@ export default function Home() {
                 <span className="text-xl font-bold">W.F. Weng Electric</span>
               </div>
               <p className="text-gray-400">
-                Family-owned electrical contractor serving Palm Beach County for over 30 years.
+                Family-owned electrical contractor serving Los Angeles County for over 30 years.
               </p>
               <div className="mt-4 flex space-x-4">
                 <Link href="#" className="text-gray-400 hover:text-white">
@@ -583,7 +582,7 @@ export default function Home() {
                   <span>
                     123 Main Street
                     <br />
-                    West Palm Beach, FL 33401
+                    Los Angeles, CA 90031
                   </span>
                 </li>
                 <li className="flex items-center">
@@ -614,7 +613,7 @@ export default function Home() {
           <div className="mt-8 border-t border-gray-700 pt-8">
             <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
               <p className="text-sm text-gray-400">
-                © {new Date().getFullYear()} W.F. Weng Electric. All rights reserved. FL License #EC13005678
+                © {new Date().getFullYear()} W.F. Weng Electric. All rights reserved. CA License #ABC1234567
               </p>
               <div className="flex space-x-4 text-sm text-gray-400">
                 <Link href="#" className="hover:text-white">
