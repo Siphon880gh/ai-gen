@@ -13,7 +13,7 @@ You can check out the live demos at:
 
 1. Initial style guide and branding was generated using ChatGPT 4
 2. The style guide and business requirements were then fed into v0's text to website generator
-3. The resulting code was deployed to both Netlify and Heroku for testing
+3. The resulting code was deployed to Heroku, Netlify, and Vercel for testing
 
 ### ChatGPT Prompt (Style Guide Generation)
 ```
