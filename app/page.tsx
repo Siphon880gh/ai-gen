@@ -65,11 +65,11 @@ export default function Home() {
         <div className="container mx-auto px-4 md:px-6">
           <div className="mx-auto max-w-3xl text-center">
             <h2 className="mb-4 text-3xl font-bold tracking-tight text-[#333333] md:text-4xl">
-              Palm Beach County's Most Trusted Electricians Since 1993
+              Palm Beach County&apos;s Most Trusted Electricians Since 1993
             </h2>
             <p className="mb-8 text-lg text-gray-600">
-              At W.F. Weng Electric, we've built our reputation on reliability, quality workmanship, and exceptional
-              customer service. As a family-owned business, we treat every client like they're part of our family.
+              At W.F. Weng Electric, we&apos;ve built our reputation on reliability, quality workmanship, and exceptional
+              customer service. As a family-owned business, we treat every client like they&apos;re part of our family.
             </p>
             <div className="flex flex-wrap justify-center gap-8">
               <div className="text-center">
@@ -114,7 +114,7 @@ export default function Home() {
             />
             <ServiceCard
               title="Panel Upgrades"
-              description="Upgrade your electrical panel to safely handle your home's modern power demands."
+              description="Upgrade your electrical panel to safely handle your home&apos;s modern power demands."
               icon="LayoutGrid"
             />
             <ServiceCard
@@ -147,7 +147,7 @@ export default function Home() {
           <div className="mb-12 text-center">
             <h2 className="mb-4 text-3xl font-bold tracking-tight md:text-4xl">Why Choose W.F. Weng Electric?</h2>
             <p className="mx-auto max-w-2xl text-lg text-blue-100">
-              We're committed to providing the highest quality electrical services with your safety and satisfaction as
+              We&apos;re committed to providing the highest quality electrical services with your safety and satisfaction as
               our top priorities.
             </p>
           </div>
@@ -224,7 +224,7 @@ export default function Home() {
               What Our Customers Say
             </h2>
             <p className="mx-auto max-w-2xl text-lg text-gray-600">
-              Don't just take our word for it. Here's what our satisfied customers have to say about our services.
+              Don&apos;t just take our word for it. Here&apos;s what our satisfied customers have to say about our services.
             </p>
           </div>
           <div className="grid gap-8 md:grid-cols-3">
@@ -235,7 +235,7 @@ export default function Home() {
               rating={5}
             />
             <TestimonialCard
-              quote="I've used them for both my home and business. Their team is knowledgeable, efficient, and always provides excellent service at fair prices."
+              quote="I&apos;ve used them for both my home and business. Their team is knowledgeable, efficient, and always provides excellent service at fair prices."
               author="Sarah Williams"
               location="Boca Raton"
               rating={5}
@@ -282,7 +282,7 @@ export default function Home() {
           <div className="mb-12 text-center">
             <h2 className="mb-4 text-3xl font-bold tracking-tight text-[#333333] md:text-4xl">Contact Us</h2>
             <p className="mx-auto max-w-2xl text-lg text-gray-600">
-              Have questions or need a quote? Fill out the form below and we'll get back to you as soon as possible.
+              Have questions or need a quote? Fill out the form below and we&apos;ll get back to you as soon as possible.
             </p>
           </div>
           <div className="mx-auto grid max-w-6xl gap-8 lg:grid-cols-2">

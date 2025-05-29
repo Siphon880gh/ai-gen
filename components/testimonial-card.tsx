@@ -18,7 +18,7 @@ export default function TestimonialCard({ quote, author, location, rating }: Tes
             <Star key={i} className={`h-5 w-5 ${i < rating ? "fill-[#FFD700] text-[#FFD700]" : "text-gray-300"}`} />
           ))}
         </div>
-        <blockquote className="mb-4 border-l-4 border-[#007BFF] pl-4 italic text-gray-700">"{quote}"</blockquote>
+        <blockquote className="mb-4 border-l-4 border-[#007BFF] pl-4 italic text-gray-700">&quot;{quote}&quot;</blockquote>
       </CardContent>
       <CardFooter className="border-t bg-gray-50 p-6">
         <div>
