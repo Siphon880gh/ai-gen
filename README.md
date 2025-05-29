@@ -1,4 +1,4 @@
-# Prompt Engineering to Generate Website
+# Prompt Engineering to Generate Website on v0
 
 By Weng Fei Fung (Weng). This project highlights how I engineered and optimized a prompt using text generation tools—combining a ChatGPT-4 style guide with business needs—to get high-quality results from v0’s text-to-website generator. The site was then deployed to Heroku, Netlify, and Vercel.
 
