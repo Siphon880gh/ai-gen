@@ -5,9 +5,10 @@ By Weng Fei Fung (Weng). This project highlights how I engineered and optimized 
 ## Live Demos
 
 You can check out the live demos at:
-- [Heroku Demo](https://wf-electric-becd0dc31639.herokuapp.com/)
 - [Netlify Demo](https://effortless-creponne-47734f.netlify.app/)
 - [Vercel Demo](https://ai-generated-website.vercel.app/)
+- Heroku Demo ~~(wf-electric-becd0dc31639.herokuapp{DOT}com/)~~
+   - I took it offline because it was costing $5/month doing nothing. Heroku has no free tier.
 
 ## Development Process
 
